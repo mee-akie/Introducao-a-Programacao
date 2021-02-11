@@ -9,11 +9,11 @@
     Condicionais
     Laços
     Arrays e Strings
-    Matriz
+    Matrizes
     Classes e Objetos
-    Strings e entra e saída
+    Strings e entrada e saída
     Busca e Ordenação
-    Herança e especificadores de acesso
+    Herança e Especificadores de Acesso
     Listas Ligadas
     Interfaces
     Arquivos
