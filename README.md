@@ -1,7 +1,7 @@
 # Introdução a Programação
- Exercícios Programas (EP´s) e listas de exercícios na linguagem JAVA, fornecidos na disciplina de Introdução a Programação da EACH-USP.
+ Exercícios Programas (EP´s) e listas de exercícios na linguagem **JAVA**, fornecidos na disciplina de Introdução a Programação da EACH-USP.
 
- Ideal para quem está começando a programar na linguagem JAVA :)
+ Ideal para quem está começando a programar na linguagem **JAVA** :)
 
  Assuntos abordados nas listas de exercícios:
 
@@ -18,4 +18,4 @@
     Lista 11 - Interfaces
     Lista 12 - Arquivos
 
-Os Direitos Autorais do matérial aprensentado, listas de exercíos e exercícios programas (EP´s), são dados exclusivamente ao Professor Doutor Norton Trevisan Roman.   
+**Os Direitos Autorais do matérial aprensentado, listas de exercíos e exercícios programas (EP´s), são dados exclusivamente ao Professor Doutor Norton Trevisan Roman.**   
