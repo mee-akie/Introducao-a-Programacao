@@ -17,3 +17,5 @@
     Listas Ligadas
     Interfaces
     Arquivos
+
+Os Direitos Autorais do matérial aprensentado, listas de exercíos e exercícios programas (EP´s), são dados exclusivamente ao Professor Doutor Norton Trevisan Roman.   
