@@ -18,4 +18,4 @@
     Lista 11 - Interfaces
     Lista 12 - Arquivos
 
-**Os Direitos Autorais do matérial aprensentado, listas de exercíos e exercícios programas (EP´s), são dados exclusivamente ao Professor Doutor Norton Trevisan Roman.**   
+**Os Direitos Autorais do matérial aprensentado, propostas das listas de exercíos e exercícios programas (EP´s), são dados exclusivamente ao Professor Doutor Norton Trevisan Roman.**   
